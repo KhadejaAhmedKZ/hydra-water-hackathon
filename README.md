@@ -1,6 +1,6 @@
 # HYDRA · The Flexibility–Fouling Frontier
 
-Team HYDRA (CMAT-00107) · Khalifa University – UN Global Water Hackathon 2026
+Team HYDRA (CMAT-00107) · Khalifa University – UNESCO Global Water Hackathon 2026
 
 Renewable-Powered Desalination: A Sustainable Alternative to Conventional Water Treatment Systems
 
